@@ -18,6 +18,7 @@ namespace OMGEmre
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Abonnieren sie TechnikFox
+            // Olti Krasniqi: nein 
         }
     }
 }
